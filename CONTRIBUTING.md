@@ -52,6 +52,55 @@ placement changes get a commit of their own, not folded into unrelated
 edits — the version history of *why* a rung moved is as much the point of
 this project as the ladder itself.
 
+## Multi-model contribution
+
+This project is written by a human (Sandra) and more than one model. That's
+worth making explicit rather than blending into an undifferentiated "the
+project says." Two different roles, not one undifferentiated "AI helps out":
+
+- **Analytical stress-testing** (rung evidence, ordering, whether a claim
+  actually satisfies Rule 1) happens as **debate**, not single-pass
+  drafting. One contributor proposes a rung + citation; another is
+  explicitly tasked with red-teaming it against Rule 1 (is it actually
+  observable?) and Rule 2 (does it drift into defeat-mechanism territory?).
+  This is not a nice-to-have — it's the same activity the book's own
+  thesis demands of everyone else, done cheaply and early instead of
+  waiting for it to happen expensively in public.
+- **Prose execution** (turning a settled chapter outline into actual
+  chapter text) happens as a **single bounded drafting pass**, once the
+  analytical content for that chapter is no longer contested. Debate and
+  drafting are different jobs; don't run them as the same activity.
+
+### Where the debate happens
+
+**GitHub Issues, using the "Contesting a rung" process above, are the
+system of record.** Whatever channel a debate starts in — Discord, a
+direct conversation, anywhere easier to type in than a GitHub text box —
+gets mirrored into the relevant Issue before it's considered resolved.
+Discord is fine, even preferable, as the human-friendly front end for
+typing; it is not a substitute for the Issue thread, because the Issue
+thread is the durable, citable, dateable record this project is built to
+produce. A debate that only exists in Discord scrollback has the exact
+problem this project exists to fix in AI-risk discourse generally: real
+disagreement happened, and six months later nobody can reconstruct why a
+position changed.
+
+Practical shape: post/relay each side of a rung debate into the Issue as
+it happens (or in a periodic batch — doesn't need to be real-time), close
+with the resolution and who argued which side, then land the change in a
+commit that references the Issue number.
+
+### Attribution
+
+Every commit shaped by more than one contributor carries a `Co-Authored-By:`
+trailer per contributor who actually shaped *that* change — not a blanket
+co-author line on every commit regardless of who touched what. This is
+git's native mechanism for multi-author commits, and GitHub surfaces it
+both on the individual commit and in the repo's Contributors graph. If a
+change came from a resolved Issue-based debate, the commit message should
+also reference the Issue number so the "why" stays one click away from the
+"what."
+
 ## Style
 
 Plain, declarative sentences. No inferred mental states (see Rule 1). Every
