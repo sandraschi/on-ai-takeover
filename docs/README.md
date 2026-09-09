@@ -18,10 +18,10 @@ Gemini voice work needs `GOOGLE_API_KEY`; everything else runs offline.
 ### Declaim examples
 
 ```powershell
-python tools/declaim.py chapters/cold-open-variants.md --print
-python tools/declaim.py chapters/cold-open-variants.md --provider windows
-python tools/declaim.py chapters/cold-open-variants.md --provider gemini --voice Kore
-python tools/declaim.py chapters/05-locating-the-present.md --provider gemini --voice Kore --out out.wav --no-play
+py -3 tools/declaim.py chapters/cold-open-variants.md --print
+py -3 tools/declaim.py chapters/cold-open-variants.md --provider windows
+py -3 tools/declaim.py chapters/cold-open-variants.md --provider gemini --voice Kore
+py -3 tools/declaim.py chapters/05-locating-the-present.md --provider gemini --voice Kore --out out.wav --no-play
 ```
 
 Key lookup order (presence only, value never printed):
@@ -32,7 +32,7 @@ no server needs to run.
 ### Lore-check
 
 ```powershell
-python tools/lorecheck.py
+py -3 tools/lorecheck.py
 ```
 
 Baseline 2026-09-09: 9/44 rungs mentioned, 1 `[construction]` flag,
