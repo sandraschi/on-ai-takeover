@@ -3,6 +3,19 @@
 All notable changes, newest first. Dates are UTC. `[construction]` marks
 asserted-but-uncited content per `CONTRIBUTING.md`.
 
+## [v0.3] - 2026-09-09
+
+### Added
+
+- `tools/build_site.py` (stdlib only): chapters to dark static HTML with
+  index, prev/next, rung anchors, `<audio>` slots. 11 pages.
+- `just serve` (port **10967**, registered in WEBAPP_PORTS.md) + `start.bat`
+  + `INSTALL.md` + `.gitignore` (site/, wavs, .env, .bak).
+- `just audio FILE`: chapter TTS to `site/audio/`, embedded on rebuild.
+  Verified: cold-open wav (8.5 MB Kore) embedded, `/` + chapter probe 200.
+- Port finding: 10966 squatted locally by SSH - verified free via
+  Get-NetTCPConnection before registering.
+
 ## [v0.2] - 2026-09-09
 
 ### Added

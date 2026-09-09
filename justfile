@@ -13,6 +13,15 @@ declaim FILE VOICE="Kore" PROVIDER="auto":
 declaim-print FILE:
   @py -3 tools/declaim.py {{FILE}} --print
 
+# Audio version of a chapter (Gemini TTS, needs GOOGLE_API_KEY). Embedded by build_site.
+audio FILE:
+  @py -3 tools/declaim.py {{FILE}} --provider auto --voice Kore --out site/audio/{{file_stem(FILE)}}.wav --no-play
+
+# Build + serve the book locally (http://localhost:10967/).
+serve PORT="10967":
+  @py -3 tools/build_site.py
+  @py -3 -m http.server {{PORT}} --directory site
+
 # Lore-check: rungs 1-44 coverage, X IDs, dates, forbidden terms.
 lore:
   @py -3 tools/lorecheck.py

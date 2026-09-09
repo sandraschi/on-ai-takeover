@@ -179,6 +179,9 @@ def main() -> int:
     if provider == "gemini":
         wav = synth_gemini(chunks, args.voice)
         out = args.out or os.path.join(tempfile.gettempdir(), "declaim.wav")
+        parent = os.path.dirname(os.path.abspath(out))
+        if parent:
+            os.makedirs(parent, exist_ok=True)
         with open(out, "wb") as f:
             f.write(wav)
         print(f"saved: {out} ({len(wav)} bytes)")
