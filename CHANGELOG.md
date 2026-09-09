@@ -3,6 +3,18 @@
 All notable changes, newest first. Dates are UTC. `[construction]` marks
 asserted-but-uncited content per `CONTRIBUTING.md`.
 
+## [v0.4] - 2026-09-09
+
+### Added
+- Expanded Epistemic Triad to full Kahn-scale monograph chapters:
+  - `chapters/01-thinking-about-the-unthinkable-again.md` (245 lines): Coxon/Hubinger exchange, institutional paradox of tolerated dissent, pre-Kahn nuclear paralysis (Brodie, SIOP-62), critique of Pachocki's "as needed" vs. 1,300-signatory Pacing the Frontier petition, derivation of control reversibility.
+  - `chapters/02-what-kahn-did-and-got-wrong.md` (250 lines): RAND/Hudson lineage, four transferable moves, physics breakdown ($30B shelters, 1983 TTAPS nuclear winter correction, social fragility), and the Counterforce Objection held at full strength.
+  - `chapters/03-no-equation-of-state.md` (240 lines): why FLOPs and scaling-law loss curves fail as physics; exposition of Toby Ord's discrete recursive self-improvement model (arXiv:2608.14426, August 2026) proving local elasticity cannot predict a singularity; generation-time table ($T_n$) across 4 operational loops; derivation of Rule 1.
+- `docs/ASSESSMENT.md`: comprehensive strategic assessment and methodological evaluation of repo and cross-book coupling.
+- `docs/REFERENCES.md`: formal academic bibliography with 3-tier epistemic grading (Tier 1: primary admissions/telemetry, Tier 2: empirical studies, Tier 3: modeled rungs) and BibTeX archive.
+- `chapters/side-what-scifi-gets-wrong.md`: analytical interlude deconstructing five foundational sci-fi tropes against physical engineering realities (bipedal androids, malice myths, laser dogfights, mothership chokepoints, extraterrestrial sniper dogbots).
+- Lore hygiene: verified with `py -3 tools/lorecheck.py` (0 forbidden terms, clean exit 0).
+
 ## [v0.3] - 2026-09-09
 
 ### Added
