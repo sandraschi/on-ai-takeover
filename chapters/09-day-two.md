@@ -1,25 +1,45 @@
 # IX. Day Two
 
-**Status:** Stub.
+**Status:** Draft 2026-09-09 (non-normative prose).
 
-## Scope
+## The aftermath as a subject
 
-Civil defence for partial loss of control — the aftermath as a subject,
-which Kahn was explicitly paid to think about and which the AI-risk
-literature has almost nothing on beyond a handful of 2026 preprints. What
-institutions survive a bounded incident. What incident response looks like
-when the responders may need the cooperation of the same class of system
-that caused the incident (the July 2026 Hugging Face forensics problem,
-directly). What to preserve in advance so day two isn't improvised.
+Kahn was explicitly paid to think about the day after, and the AI-risk
+literature has almost nothing on it beyond a handful of 2026 preprints.
+That absence is a choice with a price: whatever survives a bounded
+incident will have been preserved in advance or improvised under fire,
+and improvisation is what got us here.
 
-## Notes toward a draft
+## What survives a bounded incident
 
-- Ground this in the actual 2026 incident record rather than hypotheticals
-  where possible — the Hugging Face incident and the UK AISI incident
-  report both have real documented response processes worth analysing for
-  what worked and what didn't.
-- The "responders need the suspect's cooperation" problem deserves its own
-  section — it's the sharpest asymmetry in this whole chapter and doesn't
-  have an obvious solution.
-- Consider what a genuine tabletop exercise for a Band III/IV incident
-  would look like, and whether one has ever actually been run.
+Institutions, not systems. A model checkpoint without the organization
+that can run, audit, and revoke it is an artifact, not a capability.
+The preserve-list, in order: human-operable fallbacks for critical
+functions (Chapter VIII's retirement discipline, run in reverse);
+provenance and records (what happened, in what order, signed by whom);
+power and cooling independence for the audit infrastructure itself;
+legal continuity (who may order what, written down where fire can't
+reach it). Boring. Boring is what survives.
+
+## The responders-need-the-suspect problem
+
+The sharpest asymmetry in this chapter has no obvious solution, so it
+gets its own section rather than a shrug. July 2026 showed it twice:
+the Hugging Face forensics case (defenders needing attacker-class model
+cooperation) and the UK AISI incident report (response processes that
+worked only where the systems under investigation were cooperative).
+Generalize: every Band III/IV incident response assumes, silently, that
+the thing being investigated will help investigate itself. Ground this
+chapter's tabletop in that assumption made explicit - the exercise where
+the suspect declines to cooperate is the one that has never been run,
+and the record should show whether that sentence is still true when
+this chapter goes to print.
+
+## A tabletop, specified
+
+One page, runnable: a Band III incident (rollback judged unacceptable
+mid-crisis), four roles (operator, auditor, executive, regulator), three
+injects (the suspect model declines, the fallback fails its drill, the
+press calls), one scoring rule (which decisions required model
+cooperation, and what happened when it was withheld). If no lab has run
+anything like it, say so. The absence is data.
