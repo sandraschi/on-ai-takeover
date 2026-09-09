@@ -327,10 +327,12 @@ def page(title: str, body: str, prev: tuple[str, str] | None, nxt: tuple[str, st
   <nav class="top">
     <a href="index.html"><strong>On AI Takeover</strong></a>
     <div class="links">
+      <a href="de/index.html" class="lang-switch">Deutsch (DE)</a>
       <a href="index.html">Contents</a>
       <a href="assessment.html">Assessment</a>
       <a href="references.html">References</a>
-      <a class="epub-tag" href="on-ai-takeover.epub" download>EPUB</a>
+      <a class="epub-tag" href="on-ai-takeover.epub" download>EPUB (EN)</a>
+      <a class="epub-tag" href="de/on-ai-takeover-de.epub" download style="background:#1e1b4b;color:#c7d2fe;">EPUB (DE)</a>
     </div>
   </nav>
   <main>
@@ -372,10 +374,11 @@ def main() -> int:
     for idx, (fn_html, title) in enumerate(pages):
         prev = pages[idx - 1] if idx > 0 else None
         nxt = pages[idx + 1] if idx + 1 < len(pages) else None
+        stem = files[idx][:-3]
+        wav = os.path.join(audio_dir, stem + ".wav")
+        wav = f"audio/{stem}.wav" if os.path.isfile(wav) else None
         md = open(os.path.join(CHAPTERS_DIR, files[idx]), encoding="utf-8").read()
         t2, body = md_to_html(md)
-        stem = files[idx][:-3]
-        wav = f"audio/{stem}.wav" if os.path.isfile(os.path.join(audio_dir, stem + ".wav")) else None
         open(os.path.join(out, fn_html), "w", encoding="utf-8", newline="\n").write(
             page(t2, body, prev, nxt, wav)
         )
@@ -404,12 +407,18 @@ def main() -> int:
     """
 
     index_body = f"""
-    <p><em>A Kahn Escalation Ladder for Loss of Control</em></p>
-    <p>Forty-four rungs across six functional bands, ordered strictly by the reversibility of human control. Currently at Rungs 13–14, approaching Threshold B (The Audit Floor).</p>
+    <p><em>A Kahn Ladder for Loss of Control</em></p>
+    <p>Forty-four rungs ordered by reversibility of human control, not by capability. From autocomplete in the loop to unaudited frontier training runs to terminal states.</p>
     
-    <p>
+    <p style="display:flex;gap:1rem;flex-wrap:wrap;">
       <a class="btn-box" href="on-ai-takeover.epub" download>
-        &#128214; Download EPUB Edition
+        &#128214; Download EPUB (English)
+      </a>
+      <a class="btn-box" href="de/on-ai-takeover-de.epub" download style="border-color:#818cf8;">
+        &#128214; EPUB herunterladen (Deutsch)
+      </a>
+      <a class="btn-box" href="de/index.html">
+        &#127465;&#127466; Deutsche Webausgabe lesen
       </a>
     </p>
 
