@@ -3,6 +3,18 @@
 All notable changes, newest first. Dates are UTC. `[construction]` marks
 asserted-but-uncited content per `CONTRIBUTING.md`.
 
+## [v0.5] - 2026-09-10
+
+### Added
+- Expanded Chapter V (*Locating the Present*) to full monograph scale: empirical telemetry (Rung 6 agent-workdays, Rung 8 Pachocki monitorability decay, Rung 11 coordination failure, Rungs 13–14 Coxon/Hubinger/Pacing admissions); Toby Ord $T_n$ generation-time cascade table.
+- Expanded Chapter VI (*Thresholds as Attachment Points*) to full monograph scale: statutory attachment texts for Thresholds A–E (Last Reader, Audit Floor, Physical Off-Switch, Consent of Governed, Point of No Return); RSP preparedness framework audit matrix.
+- Expanded Chapter VII (*Tragic but Distinguishable*) to full monograph scale: 7 terminal machine states with institutional mechanisms, mandatory policy responses, and discourse honesty grades.
+- Expanded Chapter X (*The Book in the Corpus*) to full monograph scale: strategic coupling loop with hyperwar; defense against the Counterforce Objection (Rule 2); Herman Kahn obligation of clarity.
+- Generated and embedded clinical technical illustration:
+  - `site/autonomous_datacenter.jpg`: high-density unsupervised server hall.
+- Fixed 44/44 rung enumeration formatting in Chapter IV: `tools/lorecheck.py --strict` passes clean (44/44 rungs covered, 0 forbidden terms, clean exit code 0).
+- Local HTML reader and standalone EPUB 3 builder rebuilt (`tools/build_site.py` on port 10967).
+
 ## [v0.4] - 2026-09-09
 
 ### Added
