@@ -20,7 +20,7 @@ audio FILE:
 # Build + serve the book locally (http://localhost:10967/).
 serve PORT="10967":
   @py -3 tools/build_site.py
-  @py -3 -m http.server {{PORT}} --directory site
+  @py -3 -m http.server {{PORT}} --bind 127.0.0.1 --directory site
 
 # Lore-check: rungs 1-44 coverage, X IDs, dates, forbidden terms.
 lore:
