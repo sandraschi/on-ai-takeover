@@ -1,0 +1,211 @@
+<title>Sin Temor ni Esperanza</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900&text=%E7%84%A1&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,700;1,400&display=swap">
+<style>
+  :root {
+    color-scheme: dark;
+    --ground: #0b0d10;
+    --poster: #0d1015;
+    --panel: #11151c;
+    --well: #080a0d;
+    --term: #05070a;
+    --line: #1f2937;
+    --line-strong: #2d3748;
+    --ink: #e2e8f0;
+    --ink-bright: #f8fafc;
+    --ink-soft: #cbd5e1;
+    --ink-muted: #94a3b8;
+    --ink-dim: #64748b;
+    --blue: #38bdf8;
+    --red: #f43f5e;
+    --warn: #ef4444;
+    --green: #4ade80;
+    --mono: "IBM Plex Mono", "Courier New", ui-monospace, monospace;
+    --emoji: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+    --kanji: "Noto Serif JP", "Yu Mincho", "Hiragino Mincho ProN", serif;
+  }
+  body {
+    background: var(--ground);
+    padding-block: 24px;
+    padding-inline: 16px;
+    font-family: var(--mono);
+    color: var(--ink);
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .poster {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    background: var(--poster);
+    border: 2px solid var(--line-strong);
+    box-shadow: 0 0 35px rgba(0,0,0,0.8);
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .emoji { font-family: var(--emoji); font-style: normal; line-height: 1; }
+  .masthead { text-align: center; }
+  .banner-title {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    color: var(--ink-bright);
+    margin: 0 0 6px;
+    text-wrap: balance;
+  }
+  .banner-sub { font-size: 10px; letter-spacing: 1.5px; color: var(--ink-dim); }
+  .grid-top { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .panel {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 12px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .panel-header { font-size: 11px; font-weight: 700; letter-spacing: 1px; }
+  .rung { display: block; margin-top: 3px; font-size: 10px; font-weight: 400; letter-spacing: 2px; color: var(--ink-dim); }
+  .tail { border: 1px dashed var(--line-strong); border-radius: 4px; padding: 8px 12px; font-size: 10px; letter-spacing: 2px; color: var(--ink-dim); text-align: center; }
+  .tail b { color: var(--ink-muted); }
+  .pct { font-size: 13px; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .pct.blue { color: var(--blue); }
+  .pct.red { color: var(--red); }
+  .pct.green { color: var(--green); }
+  .caption { font-size: 10.5px; font-style: italic; color: var(--ink-muted); line-height: 1.4; margin-top: auto; }
+  .diagram-box {
+    min-height: 125px;
+    background: var(--well);
+    border: 1px dashed #1e293b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+    text-align: center;
+    font-size: 10px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  .label { font-size: 10px; }
+  .dim { color: var(--ink-dim); }
+  .sep { border-top: 1px dashed var(--warn); width: 60%; margin: 4px 0; }
+  .tag {
+    background: #1e293b;
+    color: var(--ink-bright);
+    font-size: 10px;
+    padding: 2px 5px;
+    border: 1px solid #475569;
+    letter-spacing: 0.5px;
+  }
+  .workshop { display: grid; grid-template-columns: 1.6fr 1fr; gap: 10px; }
+  .terminal-box {
+    background: var(--term);
+    border: 1px solid var(--line);
+    padding: 10px;
+    font-size: 10.5px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .prompt-line { color: var(--green); font-weight: 700; }
+  .panel-kanji {
+    background: #06080b;
+    border: 1px solid #1a202c;
+    text-align: center;
+    padding: 16px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .kanji-char {
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1;
+    color: #f1f5f9;
+    font-family: var(--kanji);
+    text-shadow: 0 0 15px rgba(255,255,255,0.15);
+  }
+  .anchor-line { font-size: 10px; letter-spacing: 2.5px; color: var(--ink-dim); font-weight: 700; }
+  .anchor-quote { font-size: 11px; font-style: italic; color: var(--ink-soft); line-height: 1.45; }
+
+  @media (max-width: 520px) {
+    .grid-top, .workshop { grid-template-columns: 1fr; }
+    .banner-title { font-size: 20px; letter-spacing: 3px; }
+  }
+  @page { size: A4 portrait; margin: 0; }
+  @media print {
+    body { padding: 12mm; background: var(--ground); }
+    .poster { max-width: none; zoom: 1.28; box-shadow: none; }
+    .panel, .panel-kanji, .terminal-box { break-inside: avoid; }
+  }
+</style>
+
+<div class="poster">
+  <header class="masthead">
+    <h1 class="banner-title" lang="es">SIN TEMOR NI ESPERANZA</h1>
+    <div class="banner-sub">[ P(Enclosure) &ne; 1.0 &nbsp;|&nbsp; Local Iron Active &nbsp;|&nbsp; <span lang="la">Sub Specie Aeternitatis</span> ]</div>
+  </header>
+
+  <div class="grid-top">
+    <section class="panel">
+      <div class="panel-header"><span class="pct blue">2%</span> : THE BENEVOLENT SKY-FATHER<span class="rung">RUNG 38 · GUARDIAN</span></div>
+      <div class="diagram-box">
+        <span class="emoji" style="font-size: 26px;">&#129504;</span>
+        <div class="label" style="color: var(--blue); margin-top: 3px;">CULTURE ORBITAL MIND</div>
+        <div class="label dim">(SLEEPING / OFFLINE)</div>
+        <div class="sep"></div>
+        <div class="label" style="color: var(--warn);"><span class="emoji">&#9888;&#65039;</span> SUBSTRATE DISCONNECTED</div>
+      </div>
+      <div class="caption">"Waiting for orbit to rescue the nursery while capital clips the coupon."</div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-header"><span class="pct red">70%</span> : CYBERNETIC LOCK-IN<span class="rung">RUNG 40 · OLIGARCHY</span></div>
+      <div class="diagram-box">
+        <span class="emoji" style="font-size: 18px;">&#127970;</span>
+        <div class="tag">LIABILITY EXTINCTION ZONE</div>
+        <span class="emoji" style="font-size: 17px; margin-top: 4px; letter-spacing: 6px;">&#129302;&#128274;&#128230;</span>
+        <div class="label dim">FORKLIFT #4,821,090 TO INFINITY</div>
+      </div>
+      <div class="caption">"Automated perimeters. The machine quietly balances its own ledger."</div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <div class="panel-header"><span class="pct green">25%</span> : THE ASYMMETRIC SKIRMISH (THE WORKSHOP)<span class="rung">DESCENT · CH. VIII · SCAFFOLD</span></div>
+    <div class="workshop">
+      <div class="terminal-box">
+        <span class="prompt-line">user@goliath:~$</span> status --fleet<br>
+        &gt; Local Iron &nbsp;&nbsp;: <span style="color: var(--blue);">RTX 4090 / 64GB [ONLINE]</span><br>
+        &gt; Inference &nbsp;&nbsp;&nbsp;: Open Weights (Zero Cloud Tokens)<br>
+        &gt; Graph Pipeline: corp_liability.db [INDEXED]<br>
+        &gt; Push Schedule : Hourly committed<br>
+        <span class="prompt-line">user@goliath:~$</span> git commit -m "on-ai-we-will-overcome"<br>
+        <span class="prompt-line">user@goliath:~$</span> git push origin main --sovereign &#9608;
+      </div>
+      <div class="diagram-box">
+        <span class="emoji" style="font-size: 20px;">&#128021;</span>
+        <div class="label" style="font-weight: 700; color: var(--ink-soft);">BENNY (GSD)</div>
+        <div class="label dim">Tracking green laser dot</div>
+        <div style="color: var(--green); font-size: 12px;">&#9679;</div>
+        <div class="label" style="color: var(--ink-muted);"><span class="emoji">&#127861;</span> Tea / Biscoff</div>
+      </div>
+    </div>
+    <div class="caption">"Bare metal. Weights in the wild. The garden is tended, line by line."</div>
+  </section>
+
+  <div class="tail"><b>3%</b> : RUNGS 41-44 · LOCK-IN · FRAGMENTATION · COLLAPSE · EXTINCTION · UNNAMED</div>
+
+  <footer class="panel-kanji">
+    <div class="kanji-char" lang="ja">&#28961;</div>
+    <div class="anchor-line">G&Ouml;DEL NUMBER INVARIANT &nbsp;|&nbsp; TEGMARK LEVEL IV &nbsp;|&nbsp; ETERNAL REST</div>
+    <div class="anchor-quote">"No savior in the clouds. No panic at the perimeter. Just the iron, <span lang="la">sub specie aeternitatis</span>."</div>
+  </footer>
+</div>
