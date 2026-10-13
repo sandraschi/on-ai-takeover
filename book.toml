@@ -1,0 +1,63 @@
+# bookkit configuration - see D:\Dev\repos\bookkit\README.md
+[book]
+slug = "on-ai-takeover"
+title = "On AI Takeover"
+subtitle = "A Kahn Ladder for Loss of Control"
+author = "Sandra"
+identifier = "urn:uuid:8b34f682-142e-4b61-9c17-1f4803738b55"
+language = "en"
+port = 10967
+theme = "indigo"
+blurb = "Forty-four rungs ordered by reversibility of human control, not by capability. From autocomplete in the loop to unaudited frontier training runs to terminal states."
+
+[chapters]
+dir = "chapters"
+order = [
+  "cold-open-variants.md",
+  "01-thinking-about-the-unthinkable-again.md",
+  "02-what-kahn-did-and-got-wrong.md",
+  "03-no-equation-of-state.md",
+  "04-the-ladder.md",
+  "05-locating-the-present.md",
+  "06-thresholds-as-attachment-points.md",
+  "07-tragic-but-distinguishable.md",
+  "08-descent.md",
+  "09-day-two.md",
+  "10-the-book-in-the-corpus.md",
+  "side-what-scifi-gets-wrong.md",
+]
+front_matter = ["00-preface.md", "cold-open-variants.md"]
+
+[[docs]]
+src = "ASSESSMENT.md"
+out = "assessment.html"
+label = "Assessment"
+index_label = "Strategic Assessment & Methodological Evaluation"
+
+[[docs]]
+src = "REFERENCES.md"
+out = "references.html"
+label = "References"
+index_label = "Scholarly Apparatus & Academic Bibliography"
+
+[[editions]]
+lang = "de"
+dir = "chapters_de"
+out = "de"
+title = "Über die KI-Machtübernahme"
+subtitle = "Eine Kahn-Leiter für den Kontrollverlust"
+blurb = "Die Machtübernahme ist kein einzelner Sci-Fi-Knall; sie ist eine Kaskade abtretbarer Eingriffsrechte. Vierundvierzig Sprossen von der Autovervollständigung über unüberwachbare latente Optimierung bis hin zu den sieben irreversiblen Endzuständen."
+identifier = "urn:uuid:8b34f682-142e-4b61-9c17-1f4803738b55-de"
+epub = "on-ai-takeover-de.epub"
+
+[lore]
+forbidden = ["skynet", "terminator"]
+rungs = 44
+xids = true
+ascii = true
+
+[translate]
+languages = []
+
+[dumbdown]
+levels = []
