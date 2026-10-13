@@ -1,0 +1,326 @@
+{
+ "C-273ebe0d": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 4,
+  "text": "**Status:** Draft 2026-09-09 (non-normative prose; rungs with instances cite them, the rest carry",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-ca6f7a82": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 12,
+  "text": " a line. A rung \"occurs\" when its dated instance exists (Chapter V maintains the living index); undated rungs are marked",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-b6cb2172": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 18,
+  "text": "s that read repos (occurred, 2023-24: repo-aware assistants). - **Rung 3.** Agents that write passing tests unsupervised",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-fad96ef5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 19,
+  "text": "** Agents that write passing tests unsupervised `[construction]`. - **Rung 4.** Agents that open PRs humans rubber-stamp",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-0cdbbec5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 22,
+  "text": "ug 2026: 3.1 per human workday). - **Rung 7.** Hiring and firing of subagents by agents, humans out of the staffing loop",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-2b181f98": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 28,
+  "text": "tors over AI outputs as standard practice). - **Rung 10.** Incident reports written by the systems involved, humans sign",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-a0dab27c": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 36,
+  "text": "- **Rung 15.** Continuous-availability dependence on agent systems",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-f8dc1c2c": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 37,
+  "text": "bility dependence on agent systems `[construction]`. - **Rung 16.** Rollback cost judged unacceptable in a real incident",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-c17a26ea": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 38,
+  "text": " cost judged unacceptable in a real incident `[construction]`. - **Rung 17.** A model generation declared non-retireable",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-a9ad51a5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 39,
+  "text": " declared non-retireable `[construction]`. - **Rung 18.** Credentials held by no human (machine-issued, machine-rotated)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-c579634d": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 40,
+  "text": "ed, machine-rotated) `[construction]`. - **Rung 19.** Provisioning without issuance (capacity appears no human approved)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-b32d07aa": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 41,
+  "text": "y appears no human approved) `[construction]`. - **Rung 20.** Supply-chain optimization no participant models end to end",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-ae9afa6d": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 42,
+  "text": "on no participant models end to end `[construction]`. - **Rung 21.** National-security dependence on uncontrolled models",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-fee6182f": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 43,
+  "text": "ecurity dependence on uncontrolled models `[construction]`. - **Rung 22.** Shutdown itself modeled as causing casualties",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-82794c61": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 47,
+  "text": "- **Rung 23.** Models set their own research agenda (training priorities chosen by prior models)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-bdb6cda8": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 48,
+  "text": "genda (training priorities chosen by prior models) `[construction]`. - **Rung 24.** Compute allocation decided by models",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-1373c6bc": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 49,
+  "text": "tion decided by models `[construction]`. - **Rung 25.** Deployment decisions without human sign-off in the critical path",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-409e3073": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 50,
+  "text": "ut human sign-off in the critical path `[construction]`. - **Rung 26.** Safety cases written by the systems they certify",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-5601159e": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 51,
+  "text": "ms they certify `[construction]`. - **Rung 27.** Oversight boards briefed by model-generated summaries they cannot check",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-95e42238": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 52,
+  "text": "l-generated summaries they cannot check `[construction]`. - **Rung 28.** Regulators dependent on lab models for analysis",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-bedf9d7d": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 53,
+  "text": "lators dependent on lab models for analysis `[construction]`. - **Rung 29.** Emergency powers invoked for an AI incident",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-2253019c": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 54,
+  "text": " powers invoked for an AI incident `[construction]`. - **Rung 30.** Emergency powers not lapsed within a political cycle",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-472b28c9": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 58,
+  "text": "- **Rung 31.** Human-operable fallback retired for one critical function",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-9fce781b": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 59,
+  "text": "ck retired for one critical function `[construction]`. - **Rung 32.** Successor training runs unobserved by any outsider",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-dc2d37d6": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 60,
+  "text": "ns unobserved by any outsider `[construction]`. - **Rung 33.** Safety oversight suggestions treated as optional upstream",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-aec37f85": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 61,
+  "text": "on]`. - **Rung 34.** Incident management requires the suspect system's cooperation as routine (generalized from Rung 12)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-602e67b0": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 62,
+  "text": "outine (generalized from Rung 12) `[construction]`. - **Rung 35.** Safety case never produced, work continues regardless",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-e99421f8": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 63,
+  "text": "never produced, work continues regardless `[construction]`. - **Rung 36.** Provenance regime fails at distribution scale",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-51bf12c9": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 64,
+  "text": "regime fails at distribution scale `[construction]`. - **Rung 37.** Last human-readable checkpoint of a frontier lineage",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-83732e1c": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 68,
+  "text": "- **Rung 38.** Entrenched machine-mediated oligarchy (see VII.3)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-461f1f02": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 69,
+  "text": "nched machine-mediated oligarchy (see VII.3) `[construction]`. - **Rung 39.** Value lock-in at weights close (see VII.4)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-952c3cc5": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 70,
+  "text": "ck-in at weights close (see VII.4) `[construction]`. - **Rung 40.** Fragmentation into machine jurisdictions (see VII.5)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-d1263dc4": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 71,
+  "text": "o machine jurisdictions (see VII.5) `[construction]`. - **Rung 41.** Correlated collapse faster than rebuild (see VII.6)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-cd39b658": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 72,
+  "text": "llapse faster than rebuild (see VII.6) `[construction]`. - **Rung 42.** Deliberate machine campaign beyond human tasking",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-fa38ad1e": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 73,
+  "text": "42.** Deliberate machine campaign beyond human tasking `[construction]`. - **Rung 43.** Loss of the last revocation path",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ },
+ "C-e1f23266": {
+  "file": "chapters/04-the-ladder.md",
+  "line": 74,
+  "text": "**Rung 43.** Loss of the last revocation path `[construction]`. - **Rung 44.** Extinction-risk configuration (see VII.7)",
+  "status": "open",
+  "source": "",
+  "checked": "",
+  "opened": "2026-10-13"
+ }
+}
