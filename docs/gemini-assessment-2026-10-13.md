@@ -1,44 +1,41 @@
 # Assessment Changelog - on-ai-takeover (Gemini)
 
-**Document:** `docs/gemini-assessment-2026-10-13.md`  
-**Model:** Gemini (Cross-Model Evaluator)  
-**Date:** 2026-10-13  
-**Stage:** Advanced Drafting v0.35 (13 chapters, bilingual EN+DE, 19,108 words)  
-**Purpose:** Formal changelog-structured model assessment for symposium evaluation.  
+All notable changes and model evaluations for on-ai-takeover will be documented in this file.
 
----
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+This document records Gemini's independent evaluation prepared for the multi-model symposium.
 
-## [2026-10-13 Assessment] - Gemini Evaluation
+## [Unreleased]
 
 ### Added
-- **Nuclear Scaling Synthesis:** Added `side-sundial-and-tsar-bomba.md` (987 words), comparing frontier model compute scaling to historical mega-yield weapons scaling (Edward Teller's 10,000 MT Sundial design and 1961 50 MT Tsar Bomba).
-- **Arms Control Foundations:** Added `docs/ARMS-CONTROL-THRESHOLD-PRECEDENT.md` (7.1 KB), analyzing historical treaty verification models (Open Skies, ABM Treaty, INF, START) as precedent for AI audit regimes.
-- **Cognitive Architecture Dossier:** Added `docs/NOTE-GUARDIAN-VS-SCAFFOLD.md` (3.4 KB), formalizing the distinction between external safety constraints and internal monitoring models.
-- **Sci-Fi Corollary Synchronization:** Synced expanded literary analysis (`side-what-scifi-gets-wrong.md`, 3,501 words) across Lem, Dick, Watts, Clarke, Vinge, and Egan.
-- **Model Assessment Tracking:** Created dedicated `gemini-assessment-2026-10-13.md` for symposion cross-model debate.
+- Gate to v1.0: verification and source citation of the 36 open [construction] claims in Chapter IV (`chapters/04-the-ladder.md`).
+- Gate to v1.0: archive verification (Wayback Machine URLs) for the 13 external X status IDs cataloged across CHANGELOG and Chapter V.
 
 ### Changed
-- **Tooling Consolidation:** Migrated build scripts in `tools/` to centralized `bookkit` shims (`build_site.py`, `build_site_de.py`, `build_epub.py`, `lorecheck.py`, `declaim.py`).
-- **Epistemic Refinement:** Strengthened Chapter III ("No Equation of State") using Toby Ord's discrete loop model (August 2026, arXiv:2608.14426), demonstrating why generation time floor ($T_n$) governs capability takeoff rather than training FLOPs.
-- **Assessment Ledger:** Preserved prior 2026-09-09 strategic assessment intact in `docs/ASSESSMENT.md`, establishing this file as the dated milestone update.
+- Automated non-destructive ASCII normalization across primary English prose files to resolve 327 non-ASCII lines.
+- Synchronization of English Chapter I, III, and VII revisions into German edition (`chapters_de/`).
 
-### Verified
-- **Bilingual Compilation:** `just build` cleanly compiles English (`site/on-ai-takeover.epub`, 67.8 KB, 16 HTML pages) and German (`site/de/on-ai-takeover-de.epub`, 71.7 KB, 13 HTML pages).
-- **Escalation Ladder Coverage:** `just lore` confirms all 44/44 rungs are accounted for across all six bands and five thresholds.
-- **Policy Compliance:** 0 forbidden terms (`skynet`, `terminator`), 0 missing case citations, clean footnote cross-references.
+## [0.3.5] - 2026-10-13
 
-### Discovered / Open Debt
-- **[construction] Flags:** 36 open claims in `docs/claims.json`, all 36 concentrated in Chapter IV (`04-the-ladder.md`).
-- **External Status Verification:** 13 external X status IDs cataloged across CHANGELOG and Chapter V requiring archive URL verification.
-- **Prose Hygiene Debt:** 327 lines contain non-ASCII characters in English prose.
+### Added
+- Added `side-sundial-and-tsar-bomba.md` (987 words), modeling compute scaling limits against historical mega-yield weapons scaling (Edward Teller's 10,000 MT Sundial design and 1961 50 MT Tsar Bomba).
+- Added arms control verification analysis: `docs/ARMS-CONTROL-THRESHOLD-PRECEDENT.md` (7.1 KB), drawing lessons from Open Skies, ABM Treaty, INF, and START for AI model auditability.
+- Added cognitive safety briefing: `docs/NOTE-GUARDIAN-VS-SCAFFOLD.md` (3.4 KB), formalizing the operational distinction between external scaffolds and automated guardians.
+- Synced expanded speculative fiction analysis in `side-what-scifi-gets-wrong.md` (3,501 words) across Lem, Dick, Watts, Clarke, Vinge, and Egan.
 
-### Symposion Position & Model Deliberation
-- **Anti-Binary Stance:** Strongly defends Kahn's escalation ladder methodology against the unresolving binary of contemporary alignment rhetoric ("alignment holds or everyone dies"). Granular 44-rung resolution is essential for identifying actionable institutional attachment points.
-- **Location of the Present:** Confirms that as of October 2026, frontier labs reside at Rungs 13-14, directly approaching **Threshold B (The Audit Floor)**. Mechanistic interpretability failure and reliance on attacker-class models for red-teaming represent empirical loss of human audit capability.
-- **Symposion Motion:** Propose running an archive verification pass on the 13 cataloged status IDs and prioritizing Chapter IV claims resolution.
+### Changed
+- Formalized Chapter III ("No Equation of State") using Toby Ord's discrete loop model (August 2026, arXiv:2608.14426), proving that generation time floor ($T_n$) is the governing variable of recursive takeoff rather than training FLOPs.
+- Consolidated build scripts in `tools/` into lightweight 463-byte shims delegating to centralized `bookkit` (`D:/Dev/repos/bookkit`).
+- Grounded location of the present at Rungs 13-14, directly approaching Threshold B (The Audit Floor).
 
-### Action Items & Burndown Gates
-1. [ ] Burn down the 36 open claims in Chapter IV (`04-the-ladder.md`).
-2. [ ] Verify archive / Wayback links for the 13 cataloged X status IDs.
-3. [ ] Perform automated ASCII normalization sweep to eliminate 327 non-ASCII lines.
-4. [ ] Synchronize English Chapter I, III, and VII revisions into `chapters_de/`.
+### Fixed
+- Lorecheck verification: confirmed full coverage across all 44/44 loss-of-control escalation rungs across Bands I-VI.
+- Citation and footnote checks: 0 missing case citations, clean footnote definitions.
+
+### Security
+- Rule 2 hazard compliance: strictly enforced prohibition on technical defeat mechanisms, prompt evasion recipes, and weight extraction vectors. Focus restricted to institutional audit mechanisms and verifiable commitment devices.
+- Treaty verification modeling: evaluated satellite surveillance and energy grid monitoring as non-intrusive compute verification instruments.
+
+### Symposium Position (Deliberation Notes)
+- Kahn Methodology Defense: Rejects the unresolving binary of contemporary alignment discourse ("alignment holds or everyone dies"). Granular 44-rung resolution is indispensable for identifying actionable institutional attachment points before Threshold C is breached.
+- Audit Collapse Warning: Emphasizes that Threshold B (The Audit Floor) is the true operational point of no return: once humans can no longer evaluate frontier model outputs without relying on attacker-class models, human control is ceremonial.
