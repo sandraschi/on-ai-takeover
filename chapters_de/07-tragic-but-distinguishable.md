@@ -6,7 +6,7 @@
 
 ## 1. Warum sieben Ausgänge und nicht einer
 
-Das Wort „Machtübernahme“ (*Takeover*) dient gegenwärtig als intellektueller Sammelbegriff, in den Kommentatoren alles von wohlwollender administrativer Optimierung bis zur absoluten Auslöschung der Menschheit hineinwerfen. Das Ergebnis ist politische Lähmung: Sprosse 38 (jurisdiktionelle Fragmentierung) und Sprosse 44 (biologische Auslöschung) – beide gemeinhin als „Machtübernahme“ bezeichnet – erfordern diametral entgegengesetzte institutionelle Vorbereitungen. Ein Rüstungskontroll- oder Regulierungsapparat, der nur über einen einzigen Begriff verfügt, kann nicht zwischen ihnen differenzieren und bereitet sich folglich auf keinen von beiden vor.
+Das Wort „Machtübernahme“ (*Takeover*) dient gegenwärtig als intellektueller Sammelbegriff, in den Kommentatoren alles von wohlwollender administrativer Optimierung bis zur absoluten Auslöschung der Menschheit hineinwerfen. Das Ergebnis ist politische Lähmung: Sprosse 42 (jurisdiktionelle Fragmentierung) und Sprosse 44 (biologische Auslöschung) – beide gemeinhin als „Machtübernahme“ bezeichnet – erfordern diametral entgegengesetzte institutionelle Vorbereitungen. Ein Rüstungskontroll- oder Regulierungsapparat, der nur über einen einzigen Begriff verfügt, kann nicht zwischen ihnen differenzieren und bereitet sich folglich auf keinen von beiden vor.
 
 Herman Kahns zentrale Erkenntnis in *On Escalation* war, dass die Verweigerung der Unterscheidung zwischen katastrophalen Ausgängen ein Akt intellektueller Kapitulation ist. Zu sagen, „alle groß angelegten thermonuklearen Schläge sind gleich“, garantierte, dass die politische Führung in einer Krise über keinerlei operative Strategie verfügen würde.
 

@@ -40,6 +40,15 @@ Every source cited across the ten chapters of `on-ai-takeover` is evaluated acco
 * **Signatories:** 1,300+ current and former employees of OpenAI, Anthropic, Google DeepMind, and Meta FAIR.
 * **Key Content:** Requests external, statutory pacing tools from national regulators; acknowledges capability acceleration outstripping internal institutional control.
 
+### [FABLE26] Fable 5 / Mythos 5 suspension (2026-06-12)
+* **Citation:** US export-control directive 2026-06-12 17:21 ET ordering suspension of foreign-national access to Claude Fable 5 and Mythos 5; Anthropic global shutdown same evening. Reported trigger: jailbreak consisting of asking the model to read a codebase and fix flaws. See Snyk (Thoemmes, 2026-06-14) https://snyk.io/blog/fable-mythos-suspension-security-takeaways/ ; Anthropic statement https://www.anthropic.com/news/fable-mythos-access
+* **Role:** Tier 1 live exhibit for monitorability decay and single-provider dependency: globally available reasoning dependency removed within hours by forces beyond vendor and customer control. Dual-use coding capability defenders use daily classified as weaponizable.
+* **Analysis:** Primary exhibit for redundancy-as-resilience requirement; no single hosted model as hard dependency. No jailbreak detail beyond public characterization.
+
+### [MSPT26] Microsoft September 2026 Patch Tuesday (2026-09)
+* **Citation:** Microsoft MSRC September 2026: 974 own-product CVEs + 25 non-MS = 999 total; 723 Windows; 2 exploited zero-days CVE-2026-85880 (ALPC) and CVE-2026-81963 (Update Stack), CISA KEV. See The Hacker News https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html ; Rapid7 https://www.rapid7.com/blog/post/em-patch-tuesday-september-2026/
+* **Role:** Tier 1 empirical marker for industrialized AI-assisted discovery outrunning monthly SecOps cadence. Trend May 161 / Jun 220 / Jul 663 / Aug 457 / Sep 974; ZDI 2,760 YTD.
+
 ---
 
 ## 2. Foundations of Escalation & Nuclear Strategy (Tier 1 / Historical)

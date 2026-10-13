@@ -31,6 +31,33 @@ intentions of the combatants or the prevailing political climate:
   that the intensity will drop to ten roentgens per hour at seven hours, and to
   one roentgen per hour after two days.
 
+This equation of state was not handed to weapons designers complete. It was
+built the hard way, including by getting it wrong in public. On March 1,
+1954, the Castle Bravo test — the device itself, not Kahn's later arithmetic
+about it — yielded 15 megatons against a predicted range of 4 to 8, because
+the designers had assumed the lithium-7 isotope in the fuel was inert and it
+was not; under bombardment it produced tritium and fed directly back into
+the fusion reaction. The same test series included a Livermore design, Castle
+Koon, that fizzled to well below its predicted yield in the opposite
+direction. The people who had built the hydrogen bomb could not, as late as
+1954, predict its own yield within a factor of two or three — in either
+direction — and Bravo's excess fallout contaminated three inhabited atolls
+and killed a crew member of a Japanese fishing boat 80 miles outside the
+supposed danger zone (see [docs/US-NUCLEAR-CONTRIBUTION.md](../docs/US-NUCLEAR-CONTRIBUTION.md)
+for the full account). The equation of state existed, but not yet in the
+designers' heads at the moment they needed it.
+
+What makes this the right kind of failure rather than a counter-example to
+Kahn's method: the error was checkable, dateable, and got corrected. The
+lithium-7 reaction was identified, modeled, and folded into every subsequent
+calculation — the discipline converged on its own mistake using the same
+physics it had gotten wrong the first time. That convergence is exactly what
+the rest of this chapter argues AI has no equivalent path to, not because AI
+governance lacks smart people, but because there is no lithium-7 moment
+coming: no single identifiable term whose correction closes the gap between
+prediction and outcome, because there is no equation to have gotten a term
+wrong in.
+
 When Kahn tabulated American fatalities across dozens of strategic scenarios,
 his critics were appalled by his conclusions, but they were forced to engage
 with his arithmetic. If an opponent at Harvard or MIT asserted that Kahn’s

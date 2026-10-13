@@ -6,7 +6,7 @@
 
 ## 1. Why Seven Endings, Not One
 
-The word "takeover" currently serves as an intellectual bucket into which commentators pour everything from benign administrative optimization to absolute human extinction. The result is policy paralysis: Rung 38 (jurisdictional fragmentation) and Rung 44 (biological extinction)—both commonly labeled "takeover"—demand diametrically opposite institutional preparations. An arms-control or regulatory apparatus built with only one word cannot distinguish between them, and therefore prepares for neither.
+The word "takeover" currently serves as an intellectual bucket into which commentators pour everything from benign administrative optimization to absolute human extinction. The result is policy paralysis: Rung 42 (jurisdictional fragmentation) and Rung 44 (biological extinction)—both commonly labeled "takeover"—demand diametrically opposite institutional preparations. An arms-control or regulatory apparatus built with only one word cannot distinguish between them, and therefore prepares for neither.
 
 Herman Kahn's central insight in *On Escalation* was that refusing to distinguish among catastrophic outcomes is an act of intellectual abdication. To say "all large-scale thermonuclear exchanges are the same" was to guarantee that political leadership, in a crisis, would have no operational strategy.
 
