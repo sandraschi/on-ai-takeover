@@ -59,3 +59,10 @@ The transition to artificial general intelligence and autonomous swarm warfare i
 
 The ladder is constructed. The rungs are numbered. The physical attachment points are defined. Whether humanity steps onto the higher rungs or reaches for the physical breaker switches is no longer a question for the machines. It remains, for a very brief window of time, a decision for us.
 
+The diptych with *On Hyperwar* is the original coupling. Two later sisters
+date other clocks: *On Hyperart* (aesthetic production chain), *On MetaCraft*
+(reimplementation labor). ArtCraft week is this book's Band I in product
+form. Checking cost, named in MetaCraft, is the nearest analogue this
+series has to an equation of state: when checking a claim costs more than
+producing the next one, Threshold B is the name of that crossing.
+

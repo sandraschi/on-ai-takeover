@@ -1,6 +1,6 @@
 # V. Locating the Present (living, revision-dated)
 
-**Revision date: 2026-09-09.** Living chapter: append new dated instances, never rewrite old entries. Every claim below carries its date; undated claims are methodological errors.
+**Revision date: 2026-10-18.** Living chapter: append new dated instances, never rewrite old entries. Every claim below carries its date; undated claims are methodological errors. Prior body dated 2026-09-09; ArtCraft rows appended below.
 
 ![Autonomous Frontier Supercomputer Server Hall](autonomous_datacenter.jpg)
 *Figure 5.1: High-density frontier compute cluster corridor. Monolithic liquid-cooled server racks executing unsupervised post-training and scaffolding iteration loops without biological oversight in the loop.*
@@ -74,4 +74,20 @@ Whether recursive self-improvement triggers a discrete, runaway singularity is g
 Rung 14 is fully entered when a frontier pre-training or post-training run commences with **zero published generation-time metrics, zero independent third-party audit, and synthetic data generation loops operating without biological curation**.
 
 Threshold B is crossed when this state ceases to trigger regulatory inquiries and becomes standard commercial operating procedure. The boundary is not marked by a sudden mechanical awakening, but by the quiet bureaucratic normalization of unmonitored iteration.
+
+### Rung 6, in public product form (appended 2026-10-18)
+
+ArtCraft week is Band I leaving the lab. Model-authored code entered the
+successor libraries of a shipping suite: `storytold/photocraft` first
+commit 2026-09-30; thirteen Crafting Apps by 2026-10-09; about 1,579
+`Co-Authored-By: Claude` trailers on PhotoCraft as of 2026-10-13; remaining
+work budgeted in Opus 5.5 agent-hours. Shared `craft-libs` pin the next
+app. This is not a forecast of L4. It is rung 6 (model-authored code in
+the successor) plus review-as-sampling, observable without lab telemetry.
+
+Goliath, 2026-10-18: ArtCraft Launcher v0.5.1 installed; roaming data for
+twelve of thirteen Crafts; operator states CLI and MCP usable. See
+on-metacraft Chapter V for the ledger. This chapter only dates the
+institutional fact: agent labor is now how professional desktop software
+is produced in public.
 
