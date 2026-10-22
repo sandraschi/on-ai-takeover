@@ -91,3 +91,28 @@ on-metacraft Chapter V for the ledger. This chapter only dates the
 institutional fact: agent labor is now how professional desktop software
 is produced in public.
 
+### Enclosure of the commons as Threshold B telemetry (appended 2026-10-22)
+
+Williams, P.K.G., `AI and The Enclosure of the Scientific Commons`,
+arXiv:2610.27251v1, 2026-10-19. Primer on agricultural enclosure
+(~1600-1800) plus Benkler peer-production, Ostrom, Boyle second
+enclosure. Claim: LLMs make a previously-infeasible enclosure of the
+information commons possible — common wealth into private gain at
+industrial scale, plus DDoS on the integration processes that sustain
+the commons.
+
+Dated instances cited therein, each an observable institutional fact:
+
+- 2026-02-03: GitHub PR/CVE slop spam wave (The Register).
+- 2025-10-31: arXiv CS review-article / position-paper policy; 2026-10-01
+  arXiv whole-site rate-limit policy.
+- Wikipedia near-ban on LLM-assisted contributions.
+- 2025: 10,000+ untrustworthy biomedical articles (J. Clin. Epidemiol.).
+- 2025-09-05: Bartz v. Anthropic ~$1.5B books settlement.
+
+Reading for this ladder: rungs 2-4 (review becomes sampling, unread
+production, models grading models) plus rung 9 (monitors are models) in
+science form. No future-capability extrapolation is invoked; the
+mechanism is economics and power, per Kranzberg's First Law. Filed here
+as Threshold B supporting telemetry, not as a new rung.
+

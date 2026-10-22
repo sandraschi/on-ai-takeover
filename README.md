@@ -324,3 +324,4 @@ forty-four specific points, at an institution that does not yet exist.
 - Jakub Pachocki, An Alien Mind, 2026-09-06 — https://openai.com/index/an-alien-mind/
 - Joseph Carlsmith, Is Power-Seeking AI an Existential Risk? — https://arxiv.org/abs/2206.13353
 - Dan Hendrycks, Eric Schmidt, Alexandr Wang, Superintelligence Strategy — https://arxiv.org/abs/2503.05628
+- P.K.G. Williams, AI and The Enclosure of the Scientific Commons, arXiv:2610.27251 (2026-10-19) — enclosure / peer-production integration DDoS, filed Ch V + Ch VIII

@@ -36,6 +36,12 @@ rather than goodwill to hope for.
 - **Below B:** run cards and generation times published retroactively
   for unaudited runs, external audit regime chartered with access rights.
   Realistic - it is paperwork plus access, and paperwork is cheap.
+  Williams 2610.27251 adds the peer-production corollary: integration
+  processes (merge/pull-request review, Wikipedia edit review, journal
+  peer review, arXiv rate-limit triage) defended with boundary policing
+  per Ostrom, or mass defection plus mass incompetence DDoS them first.
+  The descent commitment is the same shape: funded human integration
+  capacity with published throughput, not goodwill.
 - **Below A:** eval generators reproduced independently, lineage
   published. The cheapest descent on the list; its absence measures will.
 
