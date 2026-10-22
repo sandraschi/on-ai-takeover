@@ -2,7 +2,7 @@
 
 **Revisionsdatum: 2026-09-09.** Fortlaufendes Kapitel: Neue datierte Instanzen anfügen, alte Einträge niemals umschreiben. Jede nachfolgende Behauptung trägt ihr Datum; undatierte Behauptungen sind methodische Fehler.
 
-![Autonome Frontier-Supercomputer-Serverhalle](autonomous_datacenter.jpg)
+`[construction: Abbildung 5.1 — das referenzierte Hallenfoto wurde nie committet. Datiertes, lizenziertes Foto einer Frontier-Compute-Halle beschaffen oder Abbildung streichen.]`
 *Abbildung 5.1: Korridor eines hochdichten Frontier-Compute-Clusters. Monolithische, flüssigkeitsgekühlte Server-Racks, die unbeaufsichtigte Post-Training- und Scaffolding-Iterationsschleifen ohne biologische Aufsicht im Regelkreis ausführen.*
 
 ---

@@ -284,20 +284,7 @@ which fail under operational scrutiny:
 This book rejects both variables and adopts a single organizing principle:
 **the reversibility of human control**.
 
-```
-+-------------------------------------------------------------------------+
-|                  THE SPECTRUM OF REVERSIBILITY                          |
-|                                                                         |
-|  High Reversibility ──────────────────────────────► Zero Reversibility  |
-|                                                                         |
-|  [Census Review] ──► [Sampling] ──► [Opacity] ──► [Dependence] ──► [E]  |
-|   (Rungs 1-2)         (Rungs 3-7)    (Rungs 8-14)  (Rungs 15-22)        |
-|                                                                         |
-|  Human can roll       Rollback costs  Rollback     Physical     Rebuild |
-|  back instantly       hours of work   economically shutdown     cycle   |
-|  without friction                     ruinous      causes death > human |
-+-------------------------------------------------------------------------+
-```
+![The reversibility spectrum: five bands left to right, thresholds A-E as ticks](fig/reversibility-spectrum.svg)
 
 At every rung, we ask four concrete questions:
 * Which specific human holds the legal or physical authority to say "no"?

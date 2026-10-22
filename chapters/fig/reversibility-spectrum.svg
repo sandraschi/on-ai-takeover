@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250" font-family="-apple-system, 'Segoe UI', Roboto, sans-serif">
+  <text x="40" y="28" font-size="15" fill="currentColor" opacity="0.75">Reversibility of human control — reading right is descending (Bands I–V, Thresholds A–E)</text>
+  <g font-size="13" text-anchor="middle">
+    <rect x="40" y="90" width="148" height="64" fill="#818cf8" fill-opacity="0.10" stroke="currentColor" stroke-width="1.5"/>
+    <rect x="188" y="90" width="148" height="64" fill="#818cf8" fill-opacity="0.14" stroke="currentColor" stroke-width="1.5"/>
+    <rect x="336" y="90" width="148" height="64" fill="#818cf8" fill-opacity="0.18" stroke="currentColor" stroke-width="1.5"/>
+    <rect x="484" y="90" width="148" height="64" fill="#818cf8" fill-opacity="0.24" stroke="currentColor" stroke-width="1.5"/>
+    <rect x="632" y="90" width="148" height="64" fill="#818cf8" fill-opacity="0.30" stroke="currentColor" stroke-width="1.5"/>
+    <text x="114" y="116" fill="currentColor">I · Labor</text>
+    <text x="114" y="134" fill="currentColor" opacity="0.7">rungs 1–7</text>
+    <text x="262" y="116" fill="currentColor">II · Judgment</text>
+    <text x="262" y="134" fill="currentColor" opacity="0.7">rungs 8–14</text>
+    <text x="410" y="116" fill="currentColor">III · Dependence</text>
+    <text x="410" y="134" fill="currentColor" opacity="0.7">rungs 15–22</text>
+    <text x="558" y="116" fill="currentColor">IV · Authority</text>
+    <text x="558" y="134" fill="currentColor" opacity="0.7">rungs 23–30</text>
+    <text x="706" y="116" fill="currentColor">V · Substitution</text>
+    <text x="706" y="134" fill="currentColor" opacity="0.7">rungs 31–37</text>
+  </g>
+  <g stroke="#818cf8" stroke-width="2.5">
+    <line x1="188" y1="66" x2="188" y2="90"/>
+    <line x1="336" y1="66" x2="336" y2="90"/>
+    <line x1="484" y1="66" x2="484" y2="90"/>
+    <line x1="632" y1="66" x2="632" y2="90"/>
+    <line x1="780" y1="66" x2="780" y2="90"/>
+  </g>
+  <g font-size="12" text-anchor="middle" fill="#818cf8">
+    <text x="188" y="58">A · Reader</text>
+    <text x="336" y="58">B · Audit</text>
+    <text x="484" y="58">C · Switch</text>
+    <text x="632" y="58">D · Consent</text>
+    <text x="780" y="58">E · No return</text>
+  </g>
+  <g font-size="13" fill="currentColor">
+    <text x="40" y="185">High reversibility — rollback is cheap</text>
+    <text x="780" y="185" text-anchor="end">Zero — rebuild outlasts the machine</text>
+  </g>
+  <line x1="40" y1="200" x2="772" y2="200" stroke="currentColor" stroke-width="1.5"/>
+  <polygon points="772,200 760,194 760,206" fill="currentColor"/>
+  <text x="40" y="228" font-size="12" fill="currentColor" opacity="0.65">Fig. 1 — The spectrum this book is ordered by. Policy attaches at the named thresholds, not the bands.</text>
+</svg>

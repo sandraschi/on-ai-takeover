@@ -2,7 +2,7 @@
 
 **Revision date: 2026-10-18.** Living chapter: append new dated instances, never rewrite old entries. Every claim below carries its date; undated claims are methodological errors. Prior body dated 2026-09-09; ArtCraft rows appended below.
 
-![Autonomous Frontier Supercomputer Server Hall](autonomous_datacenter.jpg)
+`[construction: Figure 5.1 — the referenced hall photo was never committed. Source a dated, licensed photo of a frontier compute hall, or cut the figure. Caption stands as the art brief.]`
 *Figure 5.1: High-density frontier compute cluster corridor. Monolithic liquid-cooled server racks executing unsupervised post-training and scaffolding iteration loops without biological oversight in the loop.*
 
 ---
