@@ -17,7 +17,7 @@ the other.
 
 ## Case 1: Sundial — the rung never stepped onto
 
-Full history in [docs/US-NUCLEAR-CONTRIBUTION.md](../docs/US-NUCLEAR-CONTRIBUTION.md). Short version:
+Full history in Side - The American Contribution, in this book. Short version:
 Edward Teller proposed a 10-gigaton (10,000-megaton) weapon design to the AEC's General Advisory
 Committee in 1954, not long after his own Livermore lab's design (Castle Koon) had fizzled and another
 project had been cancelled — contemporaries describe the pitch as personal one-upmanship, not strategic
@@ -45,7 +45,7 @@ fireball's own NOx thermochemistry, both mechanisms independent of fission-produ
 
 ## Case 2: Tsar Bomba — the half-rung climbdown
 
-Full history in [docs/USSR-NUCLEAR-CONTRIBUTION.md](../docs/USSR-NUCLEAR-CONTRIBUTION.md). Short version:
+Full history in Side - The Soviet Contribution, in this book. Short version:
 the Soviet design as engineered included a natural-uranium tamper that would have roughly doubled the
 yield to 100+ megatons — and, because fast fission of that tamper is what generates the overwhelming
 majority of a thermonuclear weapon's fallout, would have produced vastly more radioactive contamination,
@@ -84,8 +84,8 @@ doing Sundial-type restraint — valuable, but resting entirely on nobody at any
 cross that line, for as long as the technology exists. A lab that starts a run, then deliberately
 truncates it, downgrades the release checkpoint, or withholds a capability discovered mid-training is
 doing Tsar Bomba-type restraint — a designed-in off-ramp exercised at a specific, identifiable decision
-point, which is the kind of mechanism a threshold (see
-[docs/ARMS-CONTROL-THRESHOLD-PRECEDENT.md](../docs/ARMS-CONTROL-THRESHOLD-PRECEDENT.md)) can actually be
+point, which is the kind of mechanism a threshold (see Side - The 1974
+Threshold Test Ban Treaty, in this book) can actually be
 built to require, rather than merely hope for. Chapter VIII should distinguish these explicitly rather
 than treating "descent" as one undifferentiated category — the two require entirely different
 institutional plumbing to produce reliably, and this book's own Rule 1 (observable acts, not inferred
@@ -96,9 +96,8 @@ explicit threshold over the informal, unenforceable taboo against salted weapons
 
 ## Sources
 
-Primary sourcing for both cases is in
-[docs/US-NUCLEAR-CONTRIBUTION.md](../docs/US-NUCLEAR-CONTRIBUTION.md) and
-[docs/USSR-NUCLEAR-CONTRIBUTION.md](../docs/USSR-NUCLEAR-CONTRIBUTION.md); not re-cited here to avoid
+Primary sourcing for both cases is in Side - The American Contribution and
+Side - The Soviet Contribution, in this book; not re-cited here to avoid
 duplicate bibliography drift. Asteroid/Chicxulub comparison figures: standard planetary-defense energy
 estimates (~10⁶ Mt for a 1-mile-class impactor, ~10⁸+ Mt for Chicxulub), cross-checked against Sundial's
 stated 10,000 Mt design yield.

@@ -14,6 +14,7 @@ blurb = "Forty-four rungs ordered by reversibility of human control, not by capa
 dir = "chapters"
 order = [
   "cold-open-variants.md",
+  "side-primer-kahn.md",
   "01-thinking-about-the-unthinkable-again.md",
   "02-what-kahn-did-and-got-wrong.md",
   "03-no-equation-of-state.md",
@@ -24,6 +25,11 @@ order = [
   "08-descent.md",
   "09-day-two.md",
   "10-the-book-in-the-corpus.md",
+  "side-glossary.md",
+  "side-us-nuclear.md",
+  "side-ussr-nuclear.md",
+  "side-arms-control-precedent.md",
+  "side-sundial-and-tsar-bomba.md",
   "side-what-scifi-gets-wrong.md",
 ]
 front_matter = ["00-preface.md", "cold-open-variants.md"]

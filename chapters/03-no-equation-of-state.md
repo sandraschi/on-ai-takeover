@@ -43,7 +43,7 @@ direction. The people who had built the hydrogen bomb could not, as late as
 1954, predict its own yield within a factor of two or three — in either
 direction — and Bravo's excess fallout contaminated three inhabited atolls
 and killed a crew member of a Japanese fishing boat 80 miles outside the
-supposed danger zone (see [docs/US-NUCLEAR-CONTRIBUTION.md](../docs/US-NUCLEAR-CONTRIBUTION.md)
+supposed danger zone (see Side - The American Contribution
 for the full account). The equation of state existed, but not yet in the
 designers' heads at the moment they needed it.
 

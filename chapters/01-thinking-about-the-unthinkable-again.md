@@ -111,10 +111,11 @@ Strangelove and the most reviled public intellectual of his generation — was
 insisting that twenty million dead Americans and one hundred and sixty
 million dead Americans were different outcomes.
 
-*(Reader unfamiliar with Kahn or these two books: [docs/PRIMER-KAHN.md](../docs/PRIMER-KAHN.md) covers
-who he was and what each book actually argues, in plain language, before you go further. Acronyms and
-proper nouns introduced below without full explanation — SIOP-62, Massive Retaliation, the Trinity
-test — are covered in [docs/GLOSSARY.md](../docs/GLOSSARY.md).)*
+*(Reader unfamiliar with Kahn or these two books: Side - Primer Kahn covers
+who he was and what each book actually argues, in plain language — read it
+before you go further. Acronyms and proper nouns used without full
+explanation below — SIOP-62, Massive Retaliation, the Trinity
+test — are covered in Side - Glossary, in this book.)*
 
 Kahn pointed out that refusing to distinguish between those two outcomes
 did not make twenty million dead impossible; it made one hundred and sixty
