@@ -116,3 +116,9 @@ science form. No future-capability extrapolation is invoked; the
 mechanism is economics and power, per Kranzberg's First Law. Filed here
 as Threshold B supporting telemetry, not as a new rung.
 
+### ETH refutation reprices hardness (appended 2026-10-27)
+
+OpenAI, 2026-10-26: models refuted the Exponential Time Hypothesis (natural language Oct 16, Lean Oct 17, raw data public; shepherds Impagliazzo, Paturi, Williams; conference funded). Hundreds of conditional hardness papers across graph theory, biology, databases, geometry just reopened. No capability speculation is needed for the reading: the asset at stake is the *prior literature itself* — every theorem of the form "assuming ETH, X is hard" must now be re-audited. That re-audit labor is itself billable, fundable work (cf. the $5M Simons program). The party that produces the refutation captures the agenda for the re-pricing.
+
+`[construction: verify the Lean refutation survives independent examination before citing hardness-repricing as settled fact rather than announced fact.]`
+
