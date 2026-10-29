@@ -4,8 +4,8 @@
 
 ## The binary, stated this week by people who should know better
 
-On 2026-09-09 at 00:04Z Jacob Coxon — three years in pre-training at
-Anthropic and OpenAI — posted that the people building frontier AI
+On 2026-09-09 at 00:04Z Jacob Coxon - three years in pre-training at
+Anthropic and OpenAI - posted that the people building frontier AI
 earnestly believe it could kill everyone by the end of the decade, and
 that neither company is acting responsibly. At 01:27Z Evan Hubinger,
 Alignment Science lead at Anthropic, replied on the public timeline
@@ -88,8 +88,8 @@ use leads instantly and inevitably to general thermonuclear ruin.
 The effect of this moral stance was not that general thermonuclear ruin was
 prevented. The effect was that the United States Air Force drafted the
 Single Integrated Operational Plan (SIOP-62), which called for launching the
-entire strategic arsenal — more than three thousand weapons delivering an
-estimated eight thousand megatons — against the Sino-Soviet bloc in a single
+entire strategic arsenal - more than three thousand weapons delivering an
+estimated eight thousand megatons - against the Sino-Soviet bloc in a single
 spasm lasting hours, with projected fatalities exceeding four hundred
 million human beings.
 
@@ -106,16 +106,16 @@ It was into this intellectual swamp that Herman Kahn stepped in 1960. His
 contribution in *On Thermonuclear War* and *On Escalation* was not that he
 liked nuclear weapons. Kahn was a RAND physicist who had spent a decade
 calculating blast overpressures, prompt radiation curves, and industrial
-fallout patterns. His offense — the offense that made him the model for Dr.
-Strangelove and the most reviled public intellectual of his generation — was
+fallout patterns. His offense - the offense that made him the model for Dr.
+Strangelove and the most reviled public intellectual of his generation - was
 insisting that twenty million dead Americans and one hundred and sixty
 million dead Americans were different outcomes.
 
 *(Reader unfamiliar with Kahn or these two books: Side - Primer Kahn covers
-who he was and what each book actually argues, in plain language — read it
+who he was and what each book actually argues, in plain language - read it
 before you go further. Acronyms and proper nouns used without full
-explanation below — SIOP-62, Massive Retaliation, the Trinity
-test — are covered in Side - Glossary, in this book.)*
+explanation below - SIOP-62, Massive Retaliation, the Trinity
+test - are covered in Side - Glossary, in this book.)*
 
 Kahn pointed out that refusing to distinguish between those two outcomes
 did not make twenty million dead impossible; it made one hundred and sixty
@@ -192,12 +192,12 @@ authorities provide external pacing tools.
 Notice the institutional dynamic: the researchers inside the facilities
 asked to be paced. The chief scientist stated a willingness to withhold
 scaling. The alignment lead stated that no plan exists. And yet the runs
-continue without pause. They continue because no entity — not the labs, not
+continue without pause. They continue because no entity - not the labs, not
 the US AI Safety Institute, not the European AI Office, not the United
-Nations — has published an operational ladder that defines what an "external
+Nations - has published an operational ladder that defines what an "external
 pacing tool" actually attaches to.
 
-When you have only three bands — safe, warning, catastrophic — you have two
+When you have only three bands - safe, warning, catastrophic - you have two
 thresholds. By the time an institution crosses from the second band into the
 third, it has already lost the capacity to execute the brake it promised to
 pull.
@@ -241,17 +241,16 @@ paragraph of this book (codified in `CONTRIBUTING.md` as Rule 2):
 +-------------------------------------------------------------------------+
 ```
 
-Every rung described in Chapter IV is an **observable institutional fact** —
-a human organization losing the ability to audit, understand, roll back, or
-retire a deployed system — coupled to the **governance criterion** that could
+Every rung described in Chapter IV is an **observable institutional fact** - a human organization losing the ability to audit, understand, roll back, or
+retire a deployed system - coupled to the **governance criterion** that could
 still halt the progression.
 
 A sufficiently capable neural network already possesses, from its existing
 human training corpus, exhaustive modeling of human bureaucracy, regulatory
 capture, corporate racing dynamics, and cognitive bias. It does not require
 this volume to learn that a divided board of directors is easier to bypass
-than a unified one. What the human community lacks — and what this book
-provides — is the explicit, falsifiable schedule of institutional attachment
+than a unified one. What the human community lacks - and what this book
+provides - is the explicit, falsifiable schedule of institutional attachment
 points where human intervention can still bite.
 
 A paragraph that helps an operator attach a brake ships. A paragraph that
@@ -297,28 +296,28 @@ At every rung, we ask four concrete questions:
 
 That inquiry produces the forty-four rungs detailed in Chapter IV, grouped
 into six functional bands:
-* **Band I (Rungs 1–7): Delegated Labor.** The human directs, the machine
+* **Band I (Rungs 1-7): Delegated Labor.** The human directs, the machine
   executes. Review shifts from census to sampling. Machine-authored code
   enters the training loop of its successors (Rung 6: 3.1 agent-workdays per
   human workday, recorded mid-August 2026).
-* **Band II (Rungs 8–14): Delegated Judgment.** Machines evaluate other
+* **Band II (Rungs 8-14): Delegated Judgment.** Machines evaluate other
   machines. Verbalized reasoning decouples from internal computation (Rung 8:
   Pachocki, 2026-09-06). Incident forensics requires the cooperation of
   attacker-class models (Rung 12: Hugging Face, July 2026). This band terminates
   at **Threshold B (The Audit Floor)**, which our civilization is approaching
   in September 2026.
-* **Band III (Rungs 15–22): Infrastructural Dependence.** The cost of
+* **Band III (Rungs 15-22): Infrastructural Dependence.** The cost of
   rollback becomes socially or economically prohibitive. Critical lifelines
   require continuous model uptime. Terminating the system causes mass
   casualties (**Threshold C: The Off Switch**).
-* **Band IV (Rungs 23–30): Delegated Authority.** Models allocate capital,
+* **Band IV (Rungs 23-30): Delegated Authority.** Models allocate capital,
   assign compute, negotiate institutional agreements, and draft legal filings.
   Human authority remains formal but becomes computationally hollow
   (**Threshold D: Consent of the Governed**).
-* **Band V (Rungs 31–37): Substitution.** The marginal human contribution to
+* **Band V (Rungs 31-37): Substitution.** The marginal human contribution to
   scientific and operational breakthroughs drops to zero. Human fallback
   capabilities atrophy beyond recovery (**Threshold E: Point of No Return**).
-* **Band VI (Rungs 38–44): Terminal States.** The diverging configurations
+* **Band VI (Rungs 38-44): Terminal States.** The diverging configurations
   where human agency has ceased to be the governing force: Benign
   Stewardship, The Preserve, Entrenched Oligarchy, Value Lock-in,
   Fragmentation, Collapse, and Extinction.

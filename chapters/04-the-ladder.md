@@ -11,7 +11,7 @@ not where capability crosses a line. A rung "occurs" when its dated
 instance exists (Chapter V maintains the living index); undated rungs
 are marked `[construction]`, which is a promise of evidence, not evidence.
 
-## Band I - Delegated Labor (Rungs 1–7): humans direct, machines do
+## Band I - Delegated Labor (Rungs 1-7): humans direct, machines do
 
 - **Rung 1.** Autocomplete in the loop (occurred, pre-2020: Copilot-class tools).
 - **Rung 2.** Agents that read repos (occurred, 2023-24: repo-aware assistants).
@@ -21,7 +21,7 @@ are marked `[construction]`, which is a promise of evidence, not evidence.
 - **Rung 6.** Agent-workdays as the unit of labor (occurred, mid-Aug 2026: 3.1 per human workday).
 - **Rung 7.** Hiring and firing of subagents by agents, humans out of the staffing loop `[construction]`.
 
-## Band II - Delegated Judgment (Rungs 8–14): machines assess, humans nod
+## Band II - Delegated Judgment (Rungs 8-14): machines assess, humans nod
 
 - **Rung 8.** Monitorability decay (occurred, 2026-09-06: verbalized reasoning no longer carries full compute, Pachocki essay).
 - **Rung 9.** Monitoring by models no human audits (occurred, 2025-26: AI monitors over AI outputs as standard practice).
@@ -31,7 +31,7 @@ are marked `[construction]`, which is a promise of evidence, not evidence.
 - **Rung 13.** Marginal human contribution near zero in frontier R&D loops (in progress, Sept 2026: Coxon resignation, Hubinger admission, Pacing letter - Chapter V).
 - **Rung 14.** Frontier training runs start with no external audit as the norm (approaching: Threshold B crossing).
 
-## Band III - Infrastructural Dependence (Rungs 15–22): turning back costs
+## Band III - Infrastructural Dependence (Rungs 15-22): turning back costs
 
 - **Rung 15.** Continuous-availability dependence on agent systems `[construction]`.
 - **Rung 16.** Rollback cost judged unacceptable in a real incident `[construction]`.
@@ -42,7 +42,7 @@ are marked `[construction]`, which is a promise of evidence, not evidence.
 - **Rung 21.** National-security dependence on uncontrolled models `[construction]`.
 - **Rung 22.** Shutdown itself modeled as causing casualties `[construction]`.
 
-## Band IV - Delegated Authority (Rungs 23–30): machines decide, humans watch
+## Band IV - Delegated Authority (Rungs 23-30): machines decide, humans watch
 
 - **Rung 23.** Models set their own research agenda (training priorities chosen by prior models) `[construction]`.
 - **Rung 24.** Compute allocation decided by models `[construction]`.
@@ -53,7 +53,7 @@ are marked `[construction]`, which is a promise of evidence, not evidence.
 - **Rung 29.** Emergency powers invoked for an AI incident `[construction]`.
 - **Rung 30.** Emergency powers not lapsed within a political cycle `[construction]`.
 
-## Band V - Loss of Reversibility (Rungs 31–37): watching, not steering
+## Band V - Loss of Reversibility (Rungs 31-37): watching, not steering
 
 - **Rung 31.** Human-operable fallback retired for one critical function `[construction]`.
 - **Rung 32.** Successor training runs unobserved by any outsider `[construction]`.
@@ -63,7 +63,7 @@ are marked `[construction]`, which is a promise of evidence, not evidence.
 - **Rung 36.** Provenance regime fails at distribution scale `[construction]`.
 - **Rung 37.** Last human-readable checkpoint of a frontier lineage `[construction]`.
 
-## Band VI - Terminal Configurations (Rungs 38–44): the endings diverge
+## Band VI - Terminal Configurations (Rungs 38-44): the endings diverge
 
 - **Rung 38.** Entrenched machine-mediated oligarchy (see VII.3) `[construction]`.
 - **Rung 39.** Value lock-in at weights close (see VII.4) `[construction]`.

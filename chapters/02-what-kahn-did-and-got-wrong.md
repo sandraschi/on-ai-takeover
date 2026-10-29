@@ -26,8 +26,8 @@ others saw game matrices, Kahn saw megatons, thermal pulses, firestorms, and
 hospital beds.
 
 While the United States Air Force was treating nuclear war as a single,
-spasmodic retaliatory reflex — a reflex that would unleash the entire
-strategic bomber fleet within hours — Kahn spent years conducting systematic
+spasmodic retaliatory reflex - a reflex that would unleash the entire
+strategic bomber fleet within hours - Kahn spent years conducting systematic
 briefings inside military headquarters. He would stand before rooms of senior
 officers and spend twelve hours walking through the arithmetic of thermonuclear
 detonations: blast overpressures in pounds per square inch, thermal radiation
@@ -97,7 +97,7 @@ nation can credibly commit not to cross the "Nuclear Use" threshold. The
 crossing is visible, unambiguous, and observable by the adversary.
 
 In Chapter VI, we adapt this mechanism directly for AI governance. We define
-five named thresholds — from **Threshold A (The Last Reader)** to **Threshold
+five named thresholds - from **Threshold A (The Last Reader)** to **Threshold
 E (The Point of No Return)**. Each threshold is designed to serve as an
 attachment point: an observable line that an institution can publicly commit
 not to cross, that a regulator can audit, and that an adversary can monitor.
@@ -245,7 +245,7 @@ same dangerous flattery to frontier laboratory executives, venture capitalists,
 and state security agencies?
 
 If a laboratory director reads Chapter IV and sees that our civilization is
-currently at Rungs 13–14 (approaching Threshold B), what prevents that
+currently at Rungs 13-14 (approaching Threshold B), what prevents that
 director from concluding: *"We are only on Band II. There are four entire
 bands above us. We have twenty-four rungs of headroom before we reach delegated
 authority (Band IV), and thirty rungs before we approach the point of no

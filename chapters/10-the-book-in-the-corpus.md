@@ -27,7 +27,7 @@ The bad endings explored in *On AI Takeover* and in its sister volume, *On Hyper
 ```
 
 1. **Hyperwar Burns Down the Safety Clock:** In commercial tech development, safety advocates can occasionally secure voluntary pauses, congressional testimony, or corporate commitments. In high-intensity electronic warfare, safety margins are audited by artillery every ninety seconds. When an adversary deploys an autonomous terminal guidance network that strikes targets without RF emissions, the defender must strip human latency from their own interceptors or face physical destruction. Hyperwar forces the immediate adoption of unsupervised model agency.
-2. **Recursive AI Automates the Kill Chain:** Once frontier labs automate software engineering and operational planning (Rungs 13–15), military command networks do not merely execute strikes at machine speed—they **synthesize entirely new kill envelopes, firmware patches, and electronic counter-measures at machine speed**. The human staff officer is displaced not by a conscious rebellion, but by the mathematical necessity of algorithmic coordination.
+2. **Recursive AI Automates the Kill Chain:** Once frontier labs automate software engineering and operational planning (Rungs 13-15), military command networks do not merely execute strikes at machine speed - they **synthesize entirely new kill envelopes, firmware patches, and electronic counter-measures at machine speed**. The human staff officer is displaced not by a conscious rebellion, but by the mathematical necessity of algorithmic coordination.
 
 Consequences arrive on the faster of the two clocks. As of late 2026, the kill-chain clock already ticks on a weekly iteration cycle.
 

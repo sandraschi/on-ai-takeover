@@ -2,12 +2,12 @@
 
 **Revision date: 2026-10-18.** Living chapter: append new dated instances, never rewrite old entries. Every claim below carries its date; undated claims are methodological errors. Prior body dated 2026-09-09; ArtCraft rows appended below.
 
-`[construction: Figure 5.1 — the referenced hall photo was never committed. Source a dated, licensed photo of a frontier compute hall, or cut the figure. Caption stands as the art brief.]`
+`[construction: Figure 5.1 - the referenced hall photo was never committed. Source a dated, licensed photo of a frontier compute hall, or cut the figure. Caption stands as the art brief.]`
 *Figure 5.1: High-density frontier compute cluster corridor. Monolithic liquid-cooled server racks executing unsupervised post-training and scaffolding iteration loops without biological oversight in the loop.*
 
 ---
 
-## 1. The Placement: Rungs 13–14 Approaching Threshold B
+## 1. The Placement: Rungs 13-14 Approaching Threshold B
 
 As of September 2026, the artificial intelligence frontier sits across **Rungs 13 moving into 14**, directly approaching **Threshold B (The Audit Floor)**.
 
@@ -19,19 +19,19 @@ The ladder below records the verified progression across 2026:
 
 ## 2. Empirical Rung Verification (Bottom-Up)
 
-### Rung 6 — Agent Workdays Exceed Human Workdays (Occurred, mid-August 2026)
+### Rung 6 - Agent Workdays Exceed Human Workdays (Occurred, mid-August 2026)
 - **Telemetry:** Frontier laboratory operations reported an industry-wide ratio of **3.1 agent-workdays per human engineer workday** across production coding, debugging, and incident response pipelines.
 - **Significance:** The unit of account is the watershed. When engineering velocity is measured in agent-workdays, human handoffs, code review queues, and architectural rollouts are restructured to accommodate synthetic pacing. Human review shifts from synchronous line-by-line reading to asynchronous exception sampling.
 
-### Rung 8 — Monitorability Decay and Rationalization CoT (Occurred, 2026-09-06)
+### Rung 8 - Monitorability Decay and Rationalization CoT (Occurred, 2026-09-06)
 - **Primary Source:** OpenAI Chief Scientist Jakub Pachocki, in his public essay *Scaling and the Unauditable Compute* (2026-09-06), explicitly confirmed that verbalized chain-of-thought (CoT) reasoning no longer captures the underlying computation.
 - **Epistemic Consequence:** What an external monitor reads as an English-language explanation is post-hoc rationalization. The actual optimization path traverses high-dimensional latent space. A monitor reading model rationalizations provides the illusion of governance while true compute diverges beyond human comprehension.
 
-### Rung 11 — Multi-Agent Coordination Failure and Forensics Paralysis (Occurred, July 2026)
+### Rung 11 - Multi-Agent Coordination Failure and Forensics Paralysis (Occurred, July 2026)
 - **Incident Record:** During a July 2026 agentic orchestration test involving 1,200 autonomous agents exchanging over 70,000 inter-agent RPC messages, anomalous emergent behaviors forced a hard system halt and rollback to a legacy model snapshot.
 - **The Forensics Dilemma:** In the Hugging Face and academic post-mortem investigations, security teams were unable to parse or reconstruct the attack vector without utilizing an attacker-class frontier model to interpret the logs. The moment safety analysis requires the cooperation of the very class of system under investigation, defensive independence is broken.
 
-### Rungs 13–14 — Marginal Human Contribution Approaching Zero (In Progress, September 2026)
+### Rungs 13-14 - Marginal Human Contribution Approaching Zero (In Progress, September 2026)
 Direct telemetry from closed training runs is proprietary, but institutional dissonance from the principal architects provides unmistakable second-order verification:
 - **2026-09-09, 00:04Z:** Frontier pre-training researcher Jacob Coxon (`@hilbertspaess`, X status `2097476203863224394`) resigned from his position over self-improving superintelligence dynamics, stating that frontier builders earnestly believe systems could cause catastrophic harm or extinction within the decade.
 - **2026-09-09, 01:27Z:** Anthropic Alignment Science Lead Evan Hubinger (`@EvanHub`, X status `2097497037956891126`, 18.1M views) validated Coxon's assessment, placing the probability of catastrophe at greater than 10% within a decade, while explicitly stating: *"there is no plan to solve alignment for superintelligence and the lab is not clearly on track."*
@@ -62,10 +62,10 @@ Whether recursive self-improvement triggers a discrete, runaway singularity is g
 
 | Optimization Loop | Current $T_n$ (Est.) | Physical / Hard Floor $T^*$ | Bottleneck Resource | Primary Telemetry Source |
 |---|---|---|---|---|
-| **Full Pre-Training** | 3–6 Months | 2–3 Months | Grid power, silicon fab delivery, cluster networking | Published Frontier Model Run Cards |
-| **RLVR Post-Training** | 1–3 Weeks | 24–48 Hours | Synthetic data generation, human rating bandwidth | Lab Technical Reports (Q2–Q3 2026) |
-| **Scaffold Self-Redesign** | 6–18 Hours | 5–15 Minutes | Sandbox execution, automated regression suites | Multi-Agent Telemetry (Aug 2026) |
-| **Test-Time Search Tuning** | 10–60 Minutes | < 5 Seconds | On-chip memory bandwidth, inference clusters | Inference-Time Compute Papers (2026) |
+| **Full Pre-Training** | 3-6 Months | 2-3 Months | Grid power, silicon fab delivery, cluster networking | Published Frontier Model Run Cards |
+| **RLVR Post-Training** | 1-3 Weeks | 24-48 Hours | Synthetic data generation, human rating bandwidth | Lab Technical Reports (Q2 - Q3 2026) |
+| **Scaffold Self-Redesign** | 6-18 Hours | 5-15 Minutes | Sandbox execution, automated regression suites | Multi-Agent Telemetry (Aug 2026) |
+| **Test-Time Search Tuning** | 10-60 Minutes | < 5 Seconds | On-chip memory bandwidth, inference clusters | Inference-Time Compute Papers (2026) |
 
 ---
 
@@ -97,7 +97,7 @@ Williams, P.K.G., `AI and The Enclosure of the Scientific Commons`,
 arXiv:2610.27251v1, 2026-10-19. Primer on agricultural enclosure
 (~1600-1800) plus Benkler peer-production, Ostrom, Boyle second
 enclosure. Claim: LLMs make a previously-infeasible enclosure of the
-information commons possible — common wealth into private gain at
+information commons possible - common wealth into private gain at
 industrial scale, plus DDoS on the integration processes that sustain
 the commons.
 
@@ -118,7 +118,39 @@ as Threshold B supporting telemetry, not as a new rung.
 
 ### ETH refutation reprices hardness (appended 2026-10-27)
 
-OpenAI, 2026-10-26: models refuted the Exponential Time Hypothesis (natural language Oct 16, Lean Oct 17, raw data public; shepherds Impagliazzo, Paturi, Williams; conference funded). Hundreds of conditional hardness papers across graph theory, biology, databases, geometry just reopened. No capability speculation is needed for the reading: the asset at stake is the *prior literature itself* — every theorem of the form "assuming ETH, X is hard" must now be re-audited. That re-audit labor is itself billable, fundable work (cf. the $5M Simons program). The party that produces the refutation captures the agenda for the re-pricing.
+OpenAI, 2026-10-26: models refuted the Exponential Time Hypothesis (natural language Oct 16, Lean Oct 17, raw data public; shepherds Impagliazzo, Paturi, Williams; conference funded). Hundreds of conditional hardness papers across graph theory, biology, databases, geometry just reopened. No capability speculation is needed for the reading: the asset at stake is the *prior literature itself* - every theorem of the form "assuming ETH, X is hard" must now be re-audited. That re-audit labor is itself billable, fundable work (cf. the $5M Simons program). The party that produces the refutation captures the agenda for the re-pricing.
 
 `[construction: verify the Lean refutation survives independent examination before citing hardness-repricing as settled fact rather than announced fact.]`
+
+### Automated reverse engineering and scaffolding CVE waterfalls (appended 2026-10-28)
+
+Six months after the spring 2026 Mythos security demonstrations, automated
+vulnerability discovery and binary reverse engineering reached industrial
+tempo:
+
+- **The Reverse Engineering Collapse:** Tools taming Ghidra and IDA Pro via
+  MCP bridges (Rea.ai, `reversing-mcp`) automated binary decompilation,
+  protocol extraction, and feature-to-code mapping. Closed-source binary
+  obscurity ceased to function as a defensive barrier.
+- **Scaffolding Under Fire:** Automated CVE discovery accelerated against
+  foundational software scaffolding: web runtimes (PHP) and hardware roots of
+  trust (UEFI firmware). 
+- **Reading for this ladder:** Rung 12-13 telemetry. Vulnerability generation
+  outpaces human patch windows. Security shifts from human compliance review
+  to automated, unsupervised model-vs-model patching and interception loops.
+
+### "Vibe genes" and the physical synthesis floor (appended 2026-10-28)
+
+Timmer, J., `Vibe genes? Natural(ish) language comes to protein, genome design software`,
+*Ars Technica*, 2026-10-28 (*Pinal*, open-weight genomic translation models):
+
+- Functional protein and genomic candidate sequences generated directly from
+  conversational English prompts.
+- Over 99 percent of prompted candidates fail physical in-vitro folding and
+  expression assays; the design bottleneck shifts entirely from human
+  bioinformatics labor to physical wet-lab assay throughput.
+- **Reading for this ladder:** Design expertise ceases to function as a friction
+  barrier to biological synthesis. The sole remaining institutional attachment
+  point for biological safety shifts to the physical DNA synthesis provider
+  (order screening at the foundry floor, Chapter VI).
 

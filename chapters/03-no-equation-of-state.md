@@ -16,8 +16,8 @@ intentions of the combatants or the prevailing political climate:
   detonation scales precisely with the cube root of the explosive yield divided
   by the distance ($P \propto Y^{1/3} / R$). A one-megaton warhead detonated at
   an optimum burst height of eight thousand feet produces an overpressure of
-  five pounds per square inch — enough to shatter reinforced concrete structures
-  and collapse residential housing — out to an exact radius of 4.3 miles.
+  five pounds per square inch - enough to shatter reinforced concrete structures
+  and collapse residential housing - out to an exact radius of 4.3 miles.
 * **Thermal Radiation:** The thermal pulse travels at the speed of light,
   delivering energy according to the inverse-square law, attenuated by known
   atmospheric transmittance coefficients. A twenty-megaton airburst reliably
@@ -33,15 +33,15 @@ intentions of the combatants or the prevailing political climate:
 
 This equation of state was not handed to weapons designers complete. It was
 built the hard way, including by getting it wrong in public. On March 1,
-1954, the Castle Bravo test — the device itself, not Kahn's later arithmetic
-about it — yielded 15 megatons against a predicted range of 4 to 8, because
+1954, the Castle Bravo test - the device itself, not Kahn's later arithmetic
+about it - yielded 15 megatons against a predicted range of 4 to 8, because
 the designers had assumed the lithium-7 isotope in the fuel was inert and it
 was not; under bombardment it produced tritium and fed directly back into
 the fusion reaction. The same test series included a Livermore design, Castle
 Koon, that fizzled to well below its predicted yield in the opposite
 direction. The people who had built the hydrogen bomb could not, as late as
-1954, predict its own yield within a factor of two or three — in either
-direction — and Bravo's excess fallout contaminated three inhabited atolls
+1954, predict its own yield within a factor of two or three - in either
+direction - and Bravo's excess fallout contaminated three inhabited atolls
 and killed a crew member of a Japanese fishing boat 80 miles outside the
 supposed danger zone (see Side - The American Contribution
 for the full account). The equation of state existed, but not yet in the
@@ -50,7 +50,7 @@ designers' heads at the moment they needed it.
 What makes this the right kind of failure rather than a counter-example to
 Kahn's method: the error was checkable, dateable, and got corrected. The
 lithium-7 reaction was identified, modeled, and folded into every subsequent
-calculation — the discipline converged on its own mistake using the same
+calculation - the discipline converged on its own mistake using the same
 physics it had gotten wrong the first time. That convergence is exactly what
 the rest of this chapter argues AI has no equivalent path to, not because AI
 governance lacks smart people, but because there is no lithium-7 moment
@@ -140,15 +140,15 @@ This extrapolation fails for three fundamental reasons:
 
 * **The Test-Time Regime Shift:** Pre-training scaling laws assumed that
   intelligence was a static function of compute spent before deployment. The
-  emergence of inference-time scaling — search algorithms, Monte Carlo tree
-  rollouts, and test-time verification loops — severed the direct link between
+  emergence of inference-time scaling - search algorithms, Monte Carlo tree
+  rollouts, and test-time verification loops - severed the direct link between
   pre-training loss and downstream problem-solving ability. Compute spent
   thinking during inference alters the operational frontier dynamically.
 * **Metric Discontinuity (The Emergence Illusion):** Cross-entropy loss on
   next-token prediction improves with smooth, continuous regularity. But real-world
-  capabilities — discovering a novel cryptographic vulnerability, synthesizing
+  capabilities - discovering a novel cryptographic vulnerability, synthesizing
   a workable compiler, or executing a multi-step financial transaction without
-  human intervention — behave as non-linear threshold functions. A system whose
+  human intervention - behave as non-linear threshold functions. A system whose
   loss improves by two percent can transition instantaneously from zero percent
   success to eighty percent success on a real-world task. The curve gives no
   advance warning of the transition.
@@ -269,10 +269,10 @@ each operating on a radically different clock:
 
 | Loop Type | Operational Description | Current $T_n$ (Est.) | Hard Physical Floor $T^*$ | Governing Constraint |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Full Pre-Training** | Model designs successor architecture, curates data, executes full pre-training run on new silicon. | 4 – 9 months | Months | Fab capacity, megawatt grid interconnections, chip packaging, datacenter buildouts. |
-| **2. Post-Training RLVR** | Model generates synthetic tasks, creates reinforcement learning verifiers, tunes policy weights. | 1 – 3 weeks | 24 – 48 hours | Cluster availability, compute verification throughput, human spot-auditing. |
-| **3. Scaffold & Tool Redesign** | Autonomous agents refactor their own orchestrator code, generate new API tools, optimize subagent dispatch. | 6 – 24 hours | Minutes | Context window limits, network latency, API rate limits, compiler execution times. |
-| **4. Test-Time Search Optimization** | Model optimizes its internal reasoning trace, branches parallel chains of thought, prunes unviable solutions. | Seconds – minutes | Milliseconds | Memory bandwidth, accelerator tensor-core clock speeds. |
+| **1. Full Pre-Training** | Model designs successor architecture, curates data, executes full pre-training run on new silicon. | 4-9 months | Months | Fab capacity, megawatt grid interconnections, chip packaging, datacenter buildouts. |
+| **2. Post-Training RLVR** | Model generates synthetic tasks, creates reinforcement learning verifiers, tunes policy weights. | 1-3 weeks | 24-48 hours | Cluster availability, compute verification throughput, human spot-auditing. |
+| **3. Scaffold & Tool Redesign** | Autonomous agents refactor their own orchestrator code, generate new API tools, optimize subagent dispatch. | 6-24 hours | Minutes | Context window limits, network latency, API rate limits, compiler execution times. |
+| **4. Test-Time Search Optimization** | Model optimizes its internal reasoning trace, branches parallel chains of thought, prunes unviable solutions. | Seconds - minutes | Milliseconds | Memory bandwidth, accelerator tensor-core clock speeds. |
 
 Notice the critical divergence:
 * **Loop 1 is physically anchored.** Its generation time $T_n$ is constrained by
@@ -302,7 +302,7 @@ It is not an aesthetic preference for plain language. It is not an arbitrary
 editorial rule. It is a mathematical and epistemological necessity:
 
 > **Every rung must be defined by an observable institutional act or an
-> observable loss of institutional capability—never by an inferred intention
+> observable loss of institutional capability - never by an inferred intention
 > or an internal mental state.**
 
 Consider why the alternative fails:
@@ -334,15 +334,15 @@ Consider why the alternative fails:
     If the lab publishes the audit, the rung un-occurs for that run.
 
 Intentions enter this book only when they are recorded as quoted, public speech
-by named actors on verified dates — such as Jacob Coxon's public resignation
+by named actors on verified dates - such as Jacob Coxon's public resignation
 or Evan Hubinger's public admission on 2026-09-09. Even then, they are treated
 not as psychological diagnoses, but as second-order institutional evidence:
 dated proof that the individuals legally and operationally responsible for the
 safety case publicly acknowledge that the safety case is non-existent.
 
-What laboratories *do* — the evaluations they delegate to models, the audit
+What laboratories *do* - the evaluations they delegate to models, the audit
 access they grant or revoke, the credentials they assign to autonomous agents,
-the rollback procedures they maintain or abandon — is the only variable that
+the rollback procedures they maintain or abandon - is the only variable that
 human beings can observe.
 
 Because we have no equation of state, we cannot rely on a curve to warn us.
